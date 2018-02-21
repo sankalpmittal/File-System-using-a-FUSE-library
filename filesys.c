@@ -1,7 +1,7 @@
-/**
+/*
  * 
  * Sankalp Mittal
- *
+ */
  
 #define FUSE_USE_VERSION 30
 
